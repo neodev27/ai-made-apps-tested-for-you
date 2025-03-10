@@ -1,6 +1,6 @@
 # AI App Generator Repository
 
-Welcome to the AI App Generator Repository! This collection features innovative apps created using online AI app generators, showcasing the creative potential of artificial intelligence in modern application development.
+Welcome to the AI Generated Apps repository! This collection features innovative apps created using online AI app generators, showcasing the creative potential of artificial intelligence in modern application development.
 
 ## Overview
 
