@@ -14,7 +14,7 @@ Welcome to the AI App Generator Repository! This collection features innovative 
 
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/ai-app-generator-repo.git
+git clone https://github.com/neodev27/ai-made-apps-tested-for-you.git
 ```
 
 ### Exploring the Apps
